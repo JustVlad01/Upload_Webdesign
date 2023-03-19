@@ -1,0 +1,100 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+    margin: 0;
+    padding: 0;
+    }
+    
+    h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    }
+    
+    ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    }
+    
+    /* Header */
+    
+    header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    }
+    
+    /* Navigation */
+    
+    nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    }
+    
+    nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+    text-align: center;
+    }
+    
+    nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    }
+    
+    nav ul li a:hover {
+    color: #f2f2f2;
+    }
+    
+    /* Main Content */
+    
+    .hero-image {
+    background-image: url('../webdesign_project/Images/landingpage.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    .hero-image h2 {
+    font-size: 3em;
+    color: #fff;
+    text-shadow: 2px 2px 5px #333;
+    }
+    
+    .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    }
+    
+    .bullet-points {
+    margin-top: 30px;
+    }
+    
+    .bullet-points li {
+    margin-bottom:auto
+    }
+
+    body{
+        background-color: rgb(225, 226, 226);
+        
+    }
+    footer
+    {
+        padding: 4px;
+        background-color: bisque;
+        text-align: center;
+    }
+
+ul li image
+    {
+        height: 50px;
+        width: 50px;
+    }
+    
+
+
+

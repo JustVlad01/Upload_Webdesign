@@ -1,0 +1,28 @@
+nav
+{
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    }
+    
+    nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+    text-align: center;
+    }
+    
+    nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    }
+    
+    nav ul li a:hover {
+    color: #f2f2f2;
+}
+footer
+    {
+        padding: 4px;
+        background-color: bisque;
+        text-align: center;
+    }
